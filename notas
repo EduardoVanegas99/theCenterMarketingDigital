@@ -1,0 +1,31 @@
+creamos el servidor
+
+npm init --yes
+
+creamos el archivo ts
+
+tsc --init
+
+
+
+arrancar el archivo tsc 
+
+
+Password
+
+PQDhfe2DpMEHnGgR
+
+
+
+
+
+
+//para crear componentes es 
+
+ng g m components/mensajes --routing 
+
+
+
+//Vistas independientes
+
+ng g c shared/navbar --skipTests=true -is
